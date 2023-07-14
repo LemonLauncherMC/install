@@ -24,7 +24,7 @@ rm LemonLauncherInstallData.zip
 rm -rf LemonLauncherInstallData
 
 # cd back
-cd old_dir
+cd $old_dir
 
 # done message
 echo ""
